@@ -13,8 +13,12 @@ A Python-based expense tracker application for managing daily expenses.
 - Python
 - File Handling
 - Data Structures
-
 ## How to Run
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/Manjeetsingh31/expense-tracker-python.git
 
 ```bash
 python main.py
